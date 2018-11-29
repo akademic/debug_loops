@@ -2,8 +2,6 @@ package debug_loops
 
 /*
 
-import "cycle_trap"
-
 func main() {
 
 	traps_list := NewTrapsList()
